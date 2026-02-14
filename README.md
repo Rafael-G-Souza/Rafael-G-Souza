@@ -62,7 +62,12 @@ Hoje, aplico essa mesma mentalidade para construir softwares robustos, testávei
 **Ferramentas & Qualidade:**
 <div style="display: inline_block">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="Jasmine" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg">
+  <img align="center" alt="Insomnia" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
+  <img align="center" alt="JMeter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
+  <img align="center" alt="xUnit" height="40" width="50" src="https://github.com/xunit/media/blob/main/logo-transparent.svg">
+
 </div>
 
 ---
