@@ -74,6 +74,8 @@ Hoje, aplico essa mesma mentalidade para construir softwares robustos, testávei
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+### 📊 Minhas Estatísticas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-G-Souza&layout=compact&theme=dracula)
+![Estatísticas do Rafael](https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza&show_icons=true&theme=dracula)
+
+![Linguagens do Rafael](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-G-Souza&layout=compact&theme=dracula)
