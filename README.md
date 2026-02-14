@@ -9,7 +9,7 @@
     <em>"Do rigor militar à precisão do código."</em>
   </p>
 
-  <a href="www.linkedin.com/in/rafael-gonçalves-de-souza-638a49396">
+  <a href="https://www.linkedin.com/in/rafael-gonçalves-de-souza-638a49396">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rafaelsouzagoncalves2@gmail.com">
