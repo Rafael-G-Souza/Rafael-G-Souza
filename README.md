@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, eu sou Rafael Gonçalves de Souza! 🇧🇷</h1>
-  <h3>Desenvolvedor Full Stack (.NET & Angular)</h3>
+  <h1>Olá, eu sou Rafael Gonçalves de Souza!</h1>
+  <h3>Desenvolvedor Full Stack</h3>
   
   <p>
     <em>"Do rigor militar à precisão do código."</em>
@@ -17,7 +17,14 @@
 <br />
 
 ### 🛡️ Sobre Mim
-Sou graduado em **Sistemas para Internet** e atualmente focado no ecossistema **.NET e Angular**.
+Sou graduado em **Sistemas para Internet** com formação extensa pelo SENAI
+(+900h), incluindo qualificação em Desenvolvimento Front-end. Tenho experiência prática na criação de
+interfaces dinâmicas e responsivas utilizando **Angular e Bootstrap**, com foco em componentização e
+consumo de APIs. No Back-end, possuo domínio em **C#, Python e .NET**, aplicando princípios de POO e
+arquitetura de camadas. Trago uma trajetória de 8 anos nas Forças Armadas e GSI, o que me proporcionou
+alta disciplina, facilidade em trabalhar sob pressão e rápida adaptabilidade a novas tecnologias. Atualmente,
+busco minha primeira oportunidade como Desenvolvedor Júnior para aplicar meu conhecimento técnico em
+projetos que valorizem uma interface de qualidade e código limpo..
 
 Minha trajetória profissional é marcada por 8 anos de serviço no **Exército Brasileiro** e no **GSI (Gabinete de Segurança Institucional)**, onde atuei em operações de alto nível, incluindo suporte à ONU na COP 30.
 
@@ -48,7 +55,7 @@ Hoje, aplico essa mesma mentalidade para construir softwares robustos, testávei
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
  
 </div>
 
