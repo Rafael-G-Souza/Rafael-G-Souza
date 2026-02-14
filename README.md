@@ -75,6 +75,6 @@ Hoje, aplico essa mesma mentalidade para construir softwares robustos, testávei
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-G-Souza&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza"/>
+  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats"/>
 </div>
