@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Olá, eu sou Rafael Gonçalves de Souza!</h1>
-  <h3>Desenvolvedor Full Stack</h3>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&background=0D111700&center=true&vCenter=true&width=435&lines=Rafael+Gon%C3%A7alves+de+Souza;Dev+Full+Stack+.NET+%26+Angular;Ex-Militar+%26+GSI;Disciplina+e+C%C3%B3digo+Limpo" alt="Typing SVG" />
+    </a>
+  </div>
   
   <p>
     <em>"Do rigor militar à precisão do código."</em>
@@ -36,45 +39,49 @@ Essa experiência me forjou um profissional com:
 Hoje, aplico essa mesma mentalidade para construir softwares robustos, testáveis e seguros.
 
 ---
+### ⚔️ Meu Arsenal Tecnológico
 
-### 🚀 Stack Tecnológico
-
-**Back-end:**
+**Retaguarda & APIs (Back-end):**
 <div style="display: inline_block">
-  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-**Front-end:**
+**Front-end & Interface:**
 <div style="display: inline_block">
-  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
- 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-**Ferramentas & Qualidade:**
+**Inteligência de Dados (DB):**
 <div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Jasmine" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg">
-  <img align="center" alt="Insomnia" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
-  <img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
-  <img align="center" alt="JMeter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
-  <img align="center" alt="xUnit" height="40" width="50" src="https://github.com/xunit/media/blob/main/logo-transparent.svg">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
 
+**Precisão & Qualidade (QA/Testes):**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/xUnit-101010?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit" />
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+</div>
+
+**Operacional & Ferramentas:**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Scrum-005696?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-267CB9?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban" />
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza"/>
-  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github.com/Rafael-G-Souza/Rafael-G-Souza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
