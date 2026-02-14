@@ -1,34 +1,32 @@
 name: Generate Snake
 
+# Esta é a parte que estava faltando para corrigir o erro 128
+permissions: 
+  contents: write
+
 on:
-  # Roda automaticamente todo dia à meia-noite
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Permite rodar manualmente na aba Actions
+    # Roda a cada 12 horas
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       
-      - name: Gerar a Cobrinha (Snake)
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
-          # Usa o nome do dono do repositório automaticamente
+          # O nome do usuário vem automático
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # Token de segurança padrão do GitHub
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publicar no branch de saída
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
