@@ -6,7 +6,7 @@
     <em>"Do rigor militar à precisão do código."</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/rafael-gonçalves-de-souza-638a49396">
+  <a href="www.linkedin.com/in/rafael-gonçalves-de-souza-638a49396">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rafaelsouzagoncalves2@gmail.com">
@@ -74,6 +74,7 @@ Hoje, aplico essa mesma mentalidade para construir softwares robustos, testávei
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do Rafael](https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza&show_icons=true&theme=dracula)
-
-![Linguagens do Rafael](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-G-Souza&layout=compact&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-G-Souza&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-G-Souza&layout=compact&theme=dracula"/>
+</div>
